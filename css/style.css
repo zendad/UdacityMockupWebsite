@@ -1,0 +1,47 @@
+body{
+ 	font-family: 'Lato', sans-serif;
+ 	color: #747704;
+ 	font-weight: 300;
+ }
+
+ *{
+ 	/*outline: 1px solid red !important;*/
+ }
+
+
+ .weather{
+ 	width: 1200px;
+ 	height: 360px;
+ }
+
+ .images{
+ 	width: 400px;
+ 	height: 300px;
+ }
+
+ .logo{
+ 	width: 100px;
+ 	height: 100px;
+ }
+ .text-muted{
+ 	color:BCBBBB;
+ }
+ .text-thin{
+ 	font-weight: 100;
+ }
+
+ .title-super{
+ 	font-size: 60px;
+ }
+
+ .title-logo{
+ 	margin-top: 20px;
+ }
+
+ hr {
+ 	height: 3px;
+ 	width: 100%;
+ 	margin-right: 0;
+ 	margin-left: 0;
+	background-color: #bbb;
+}
